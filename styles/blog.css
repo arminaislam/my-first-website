@@ -1,0 +1,13 @@
+#box{
+    background-color: blueviolet;
+    padding: 10px 20px 10px 20px;
+}
+.bold{
+    font-size: larger;
+    text-align: center;
+}
+.one{
+    /* display: block; */
+    color: azure;
+    border: 2px solid blue;
+}
